@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.3.2.2:1", "", "Virksomhed - kapitalforhold", "EARoot/EA3/EA2/EA2/EA229.htm", "175.png", "3223", "0", "", "Logical diagram0","{C19D1719-538C-462d-A0CD-D393F68B810C}");
+tocTab[tocTab.length] = new Array("0.3.2.2:2", "", "«DKDatatype» Børsnoteret", "EARoot/EA3/EA2/EA2/EA232.htm", "230.png", "E7319", "0", "", "DataType0","{F6242E4A-5D91-411d-AACD-FF37F2E06455}");
+tocTab[tocTab.length] = new Array("0.3.2.2:3", "", "«DKDatatype» Kapital", "EARoot/EA3/EA2/EA2/EA233.htm", "230.png", "E7320", "0", "", "DataType0","{85ABFEBF-9290-46b8-B783-C7CC3C082A7E}");
+tocTab[tocTab.length] = new Array("0.3.2.2:4", "", "«DKDatatype» KapitalDelvist", "EARoot/EA3/EA2/EA2/EA234.htm", "230.png", "E7321", "0", "", "DataType0","{D2A80632-98F2-4e3f-868B-D03FBCEF4F6A}");
+tocTab[tocTab.length] = new Array("0.3.2.2:5", "", "«DKObjekttype» Kapitalforhold", "EARoot/EA3/EA2/EA2/EA235.htm", "5.png", "E7318", "0", "", "Class0","{E2763C07-3A9B-48b2-8333-BDA8B58C5FAC}");
+tocTab[tocTab.length] = new Array("0.3.2.2:6", "", "«DKDatatype» Kapitalklasser", "EARoot/EA3/EA2/EA2/EA236.htm", "230.png", "E7322", "0", "", "DataType0","{528D273A-DC01-465c-A582-7DCB6749C74E}");
+tocTab[tocTab.length] = new Array("0.3.2.2:7", "", "«DKDatatype» Kreditoplysning", "EARoot/EA3/EA2/EA2/EA237.htm", "230.png", "E7323", "0", "", "DataType0","{28375D52-AB68-4d9a-893E-891EEE7B40F5}");
+tocTab[tocTab.length] = new Array("0.3.2.2:8", "", "«DKEnumeration» KreditoplysningStatusType", "EARoot/EA3/EA2/EA2/EA238.htm", "247.png", "E7324", "0", "", "Enumeration0","{55FAE996-B66F-4c78-9540-BD6D882D8A0A}");
+tocTab[tocTab.length] = new Array("0.3.2.2:9", "", "«DKEnumeration» KreditoplysningType", "EARoot/EA3/EA2/EA2/EA239.htm", "247.png", "E7325", "0", "", "Enumeration0","{FFC23418-C28C-4253-BDEB-3BA0D7B60BC5}");

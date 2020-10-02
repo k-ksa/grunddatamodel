@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.12.1:1", "", "adresse", "EARoot/EA12/EA1/EA785.htm", "175.png", "3171", "0", "", "Logical diagram0","{AA387B28-5CC9-45dc-9F9F-8990C54E9D57}");
+tocTab[tocTab.length] = new Array("0.12.1:2", "", "«DKDatatype» CprAdresse", "EARoot/EA12/EA1/EA788.htm", "5.png", "E6889", "0", "", "Class0","{5B1E3DAB-0235-4b7b-9EE5-2C5F8B8A17F8}");
+tocTab[tocTab.length] = new Array("0.12.1:3", "", "«DKDatatype» SimpelAdresse", "EARoot/EA12/EA1/EA789.htm", "5.png", "E6890", "0", "", "Class0","{264167B9-E694-4f62-A268-0CE927CEF721}");

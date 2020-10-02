@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.9.8:1", "", "Oversigtsdiagram Topografi", "EARoot/EA9/EA8/EA617.htm", "175.png", "3196", "0", "", "Logical diagram0","{8462E8F3-E68F-4c89-822D-CEB4C8DED8AE}");
+tocTab[tocTab.length] = new Array("0.9.8:2", "", "«DKFeaturetype» Plads", "EARoot/EA9/EA8/EA621.htm", "5.png", "E7062", "0", "", "Class0","{EB5225B3-8021-4bcf-AD7F-237C105C6D19}");
+tocTab[tocTab.length] = new Array("0.9.8:3", "", "«DKFeaturetype» RekreativtOmråde", "EARoot/EA9/EA8/EA622.htm", "5.png", "E7063", "0", "", "Class0","{2E94432C-A260-4448-9092-D237D1BD415F}");

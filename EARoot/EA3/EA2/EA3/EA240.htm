@@ -1,0 +1,91 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Virksomhed - kategorisering</title>
+<link href="../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="PageBody">
+	
+<img src="EA241.png" usemap="#EA241" border="0" />
+
+<MAP NAME="EA241">
+<area shape="rect" coords="1480,598,1706,843" href="../EA148.htm" target="_self">
+<area shape="rect" coords="1527,380,1657,508" href="../EA147.htm" target="_self">
+<area shape="rect" coords="914,539,1150,836" href="EA254.htm" target="_self">
+<area shape="rect" coords="987,388,1077,448" href="EA253.htm" target="_self">
+<area shape="rect" coords="1323,388,1413,464" href="EA252.htm" target="_self">
+<area shape="rect" coords="350,478,476,554" href="EA250.htm" target="_self">
+<area shape="rect" coords="1139,385,1252,461" href="EA249.htm" target="_self">
+<area shape="rect" coords="773,555,886,631" href="EA248.htm" target="_self">
+<area shape="rect" coords="565,560,655,636" href="EA247.htm" target="_self">
+<area shape="rect" coords="17,653,210,1067" href="EA246.htm" target="_self">
+<area shape="rect" coords="194,478,313,554" href="EA245.htm" target="_self">
+<area shape="rect" coords="61,478,151,538" href="EA244.htm" target="_self">
+<area shape="rect" coords="686,362,833,413" href="EA251.htm" target="_self">
+<area shape="rect" coords="186,305,480,356" href="EA243.htm" target="_self">
+<area shape="rect" coords="877,10,1166,154" href="../EA174.htm" target="_self">
+</MAP>
+
+	<div class="ObjectTitle">Virksomhed - kategorisering : Logical diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">04-06-2019 17:44:43</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">08-07-2019 14:43:55</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">d.hemmer</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{7421C988-67CA-403e-9491-8DFFAC310D4E}</td>
+		</tr>
+	</table>
+	
+</div>
+ 
+</body>
+</html>

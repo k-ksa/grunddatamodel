@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.12.3:1", "", "civilstand", "EARoot/EA12/EA3/EA795.htm", "175.png", "3173", "0", "", "Logical diagram0","{D3E31798-9018-4e74-ADB6-B4DBEA34B54C}");
+tocTab[tocTab.length] = new Array("0.12.3:2", "", "«DKDatatype» Civilstand", "EARoot/EA12/EA3/EA798.htm", "5.png", "E6895", "0", "", "Class0","{65159CA9-C56E-4141-A449-32F6C2233B21}");
+tocTab[tocTab.length] = new Array("0.12.3:3", "", "«DKEnumeration» Civilstandstype", "EARoot/EA12/EA3/EA799.htm", "247.png", "E6897", "0", "", "Enumeration0","{03185A95-9044-4e20-88AB-61DF3B39EA91}");
+tocTab[tocTab.length] = new Array("0.12.3:4", "", "«DKDatatype» Separation", "EARoot/EA12/EA3/EA800.htm", "5.png", "E6896", "0", "", "Class0","{8D700962-A80C-4546-99CD-3CC138DFD6B8}");

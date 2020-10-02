@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.3.1:1", "", "«DKObjekttype» CVRPerson", "EARoot/EA3/EA1/EA132.htm", "5.png", "E7244", "0", "", "Class0","{61718AB9-D45C-492a-89E6-53E8E592BBA8}");
+tocTab[tocTab.length] = new Array("0.3.1:2", "", "«DKDatatype» PersonNavn", "EARoot/EA3/EA1/EA133.htm", "230.png", "E7245", "0", "", "DataType0","{170E26F0-D6CB-4034-8FA8-1F8D82A1B42F}");

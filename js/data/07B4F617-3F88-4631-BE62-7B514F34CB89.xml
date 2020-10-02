@@ -1,0 +1,13 @@
+tocTab[tocTab.length] = new Array("0.3.2.4:1", "", "Virksomhed - revision", "EARoot/EA3/EA2/EA4/EA255.htm", "175.png", "3225", "0", "", "Logical diagram0","{68717EFB-693E-4d4f-9B16-E13AFFF9B170}");
+tocTab[tocTab.length] = new Array("0.3.2.4:2", "", "«DKDatatype» FørsteRegnskabsperiodeSlut", "EARoot/EA3/EA2/EA4/EA258.htm", "230.png", "E7342", "0", "", "DataType0","{D6D16705-D8E1-4daf-BABD-2126D4D00C74}");
+tocTab[tocTab.length] = new Array("0.3.2.4:3", "", "«DKDatatype» FørsteRegnskabsperiodeStart", "EARoot/EA3/EA2/EA4/EA259.htm", "230.png", "E7343", "0", "", "DataType0","{EE547B04-8A9D-4ab4-806A-66D524155AB6}");
+tocTab[tocTab.length] = new Array("0.3.2.4:4", "", "«DKDatatype» OmlægningsperiodeSlut", "EARoot/EA3/EA2/EA4/EA260.htm", "230.png", "E7344", "0", "", "DataType0","{5C60050A-ED4E-45b0-AA11-B60310C1496E}");
+tocTab[tocTab.length] = new Array("0.3.2.4:5", "", "«DKDatatype» OmlægningsperiodeStart", "EARoot/EA3/EA2/EA4/EA261.htm", "230.png", "E7345", "0", "", "DataType0","{4C7D00BA-4179-4983-B373-4512CFD08334}");
+tocTab[tocTab.length] = new Array("0.3.2.4:6", "", "«DKObjekttype» Regnskab", "EARoot/EA3/EA2/EA4/EA262.htm", "5.png", "E7340", "0", "", "Class0","{040CF210-765A-4fea-A76F-2C920390531B}");
+tocTab[tocTab.length] = new Array("0.3.2.4:7", "", "«DKDatatype» RegnskabsårFritekst", "EARoot/EA3/EA2/EA4/EA263.htm", "230.png", "E7346", "0", "", "DataType0","{F612026F-4D69-4a65-B50B-B990007CD2F0}");
+tocTab[tocTab.length] = new Array("0.3.2.4:8", "", "«DKDatatype» RegnskabsårSlut", "EARoot/EA3/EA2/EA4/EA264.htm", "230.png", "E7347", "0", "", "DataType0","{7DEE99A3-46CD-49f3-8D31-45FD6AC48901}");
+tocTab[tocTab.length] = new Array("0.3.2.4:9", "", "«DKDatatype» RegnskabsårStart", "EARoot/EA3/EA2/EA4/EA265.htm", "230.png", "E7348", "0", "", "DataType0","{006AC7DA-5517-4dce-BE86-74A34D9283C7}");
+tocTab[tocTab.length] = new Array("0.3.2.4:10", "", "«DKObjekttype» Revision", "EARoot/EA3/EA2/EA4/EA266.htm", "5.png", "E7341", "0", "", "Class0","{3661003B-77E1-4846-B835-613498F47DED}");
+tocTab[tocTab.length] = new Array("0.3.2.4:11", "", "«DKDatatype» RevisionFravalgt", "EARoot/EA3/EA2/EA4/EA267.htm", "230.png", "E7349", "0", "", "DataType0","{9ED9E131-D1D4-48bd-ACAA-A469984039D4}");
+tocTab[tocTab.length] = new Array("0.3.2.4:12", "", "«DKDatatype» TilsynKategori", "EARoot/EA3/EA2/EA4/EA268.htm", "230.png", "E7350", "0", "", "DataType0","{CDAB2780-C963-4254-820A-9ABC66F15430}");
+tocTab[tocTab.length] = new Array("0.3.2.4:13", "", "«DKEnumeration» TilsynKategoriKode", "EARoot/EA3/EA2/EA4/EA269.htm", "247.png", "E7351", "0", "", "Enumeration0","{E7DDD4DE-07A0-4a95-9318-C7CCDF26955A}");

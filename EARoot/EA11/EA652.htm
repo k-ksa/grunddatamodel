@@ -1,0 +1,87 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Oversigtsdiagram Matrikeludvidelse</title>
+<link href="../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="PageBody">
+	
+<img src="EA653.png" usemap="#EA653" border="0" />
+
+<MAP NAME="EA653">
+<area shape="rect" coords="478,39,593,166" href="EA695.htm" target="_self">
+<area shape="rect" coords="113,10,353,85" href="EA703.htm" target="_self">
+<area shape="rect" coords="10,311,174,374" href="EA672.htm" target="_self">
+<area shape="rect" coords="367,312,531,375" href="EA664.htm" target="_self">
+<area shape="rect" coords="1240,315,1404,378" href="EA670.htm" target="_self">
+<area shape="rect" coords="704,161,868,224" href="EA662.htm" target="_self">
+<area shape="rect" coords="704,36,868,99" href="EA660.htm" target="_self">
+<area shape="rect" coords="972,313,1136,376" href="EA668.htm" target="_self">
+<area shape="rect" coords="815,493,979,556" href="EA666.htm" target="_self">
+<area shape="rect" coords="593,493,757,556" href="EA666.htm" target="_self">
+<area shape="rect" coords="704,313,868,376" href="EA666.htm" target="_self">
+</MAP>
+
+	<div class="ObjectTitle">Oversigtsdiagram Matrikeludvidelse : Geodata Class diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">30-01-2015 11:03:57</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">22-06-2015 11:11:25</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">Geodatastyrelsen</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.2.3</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{221C0BFD-81B7-49c2-9B5D-19467B7D8BFC}</td>
+		</tr>
+	</table>
+	
+</div>
+ 
+</body>
+</html>

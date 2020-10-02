@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.9.2:1", "", "Oversigtsdiagram Bygninger", "EARoot/EA9/EA2/EA494.htm", "175.png", "3188", "0", "", "Logical diagram0","{8F5C9C55-9B51-4856-BCE1-8F48054522FB}");
+tocTab[tocTab.length] = new Array("0.9.2:2", "", "«DKEnumeration» BBRaktionVærdi", "EARoot/EA9/EA2/EA498.htm", "247.png", "E6956", "0", "", "Enumeration0","{5C5167DE-F5BA-41d2-ABCA-5E9A25E1211D}");
+tocTab[tocTab.length] = new Array("0.9.2:3", "", "«DKFeaturetype» Bygning", "EARoot/EA9/EA2/EA499.htm", "5.png", "E6955", "0", "", "Class0","{CF49FB5F-425D-4759-A4B9-0090F4B7B604}");
+tocTab[tocTab.length] = new Array("0.9.2:4", "", "«DKEnumeration» BygningstypeVærdi", "EARoot/EA9/EA2/EA500.htm", "247.png", "E6957", "0", "", "Enumeration0","{C5A2D04B-E504-4af2-8882-9AF34558CB44}");
+tocTab[tocTab.length] = new Array("0.9.2:5", "", "«DKEnumeration» MålestedBygningVærdi", "EARoot/EA9/EA2/EA501.htm", "247.png", "E6959", "0", "", "Enumeration0","{1F407B35-7AEE-4fdd-95AC-5A098A683CA0}");
+tocTab[tocTab.length] = new Array("0.9.2:6", "", "«DKEnumeration» Metode3DVærdi", "EARoot/EA9/EA2/EA502.htm", "247.png", "E6958", "0", "", "Enumeration0","{5087CBD2-1DB6-432a-A4A2-F3B13677D97A}");

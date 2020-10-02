@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.12.9:1", "", "Ophold", "EARoot/EA12/EA9/EA829.htm", "175.png", "3179", "0", "", "Logical diagram0","{F3054F30-CE8B-4624-BCBE-8905AFB629FB}");
+tocTab[tocTab.length] = new Array("0.12.9:2", "", "«DKDatatype» Adresseoplysninger", "EARoot/EA12/EA9/EA832.htm", "5.png", "E6917", "0", "", "Class0","{730BF9DA-9B85-4d13-8BE2-7D49D0F326FD}");
+tocTab[tocTab.length] = new Array("0.12.9:3", "", "«DKDatatype» Flyttepaabud", "EARoot/EA12/EA9/EA833.htm", "5.png", "E6918", "0", "", "Class0","{D71C5A62-F78E-482d-BAB3-7DFD5CDFDE08}");
+tocTab[tocTab.length] = new Array("0.12.9:4", "", "«DKDatatype» Forsvinding", "EARoot/EA12/EA9/EA834.htm", "5.png", "E6919", "0", "", "Class0","{0C528E5F-1A9E-4d44-B563-F8493C8AC709}");
+tocTab[tocTab.length] = new Array("0.12.9:5", "", "«DKDatatype» SimpelAdresseoplysning", "EARoot/EA12/EA9/EA835.htm", "5.png", "E6920", "0", "", "Class0","{DC4B4B42-F7DD-4be6-983C-579F060D13AF}");
+tocTab[tocTab.length] = new Array("0.12.9:6", "", "«DKDatatype» UdrejseIndrejse", "EARoot/EA12/EA9/EA836.htm", "5.png", "E6921", "0", "", "Class0","{EF1C0CBC-3539-467f-8B44-2AA54A4C1B03}");

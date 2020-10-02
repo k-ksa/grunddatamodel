@@ -1,0 +1,90 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Klik på en Domænemodel-pakke for at se dens oversigtsdiagram</title>
+<link href="../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="PageBody">
+	
+<img src="EA2.png" usemap="#EA2" border="0" />
+
+<MAP NAME="EA2">
+<area shape="rect" coords="949,62,1170,392" href="../EA12/EA768.htm" target="_self">
+<area shape="rect" coords="1291,889,1511,1143" href="../EA3/EA113.htm" target="_self">
+<area shape="rect" coords="1296,1187,1504,1665" href="../EA13/EA859.htm" target="_self">
+<area shape="rect" coords="257,149,517,1539" href="../EA2/EA6.htm" target="_self">
+<area shape="rect" coords="910,573,1151,899" href="../EA9/EA459.htm" target="_self">
+<area shape="rect" coords="904,935,1192,1069" href="../EA7/EA415.htm" target="_self">
+<area shape="rect" coords="1287,540,1514,850" href="../EA6/EA362.htm" target="_self">
+<area shape="rect" coords="651,24,826,382" href="../EA5/EA318.htm" target="_self">
+<area shape="rect" coords="10,25,184,1167" href="../EA14/EA889.htm" target="_self">
+<area shape="rect" coords="1278,56,1492,398" href="../EA4/EA270.htm" target="_self">
+<area shape="rect" coords="619,689,864,1575" href="../EA11/EA648.htm" target="_self">
+<area shape="rect" coords="905,1093,1189,1515" href="../EA8/EA431.htm" target="_self">
+<area shape="rect" coords="1282,429,1442,490" href="../EA10/EA644.htm" target="_self">
+<area shape="rect" coords="653,454,825,576" href="../EA15/EA1/EA1065.htm" target="_self">
+</MAP>
+
+	<div class="ObjectTitle">Klik på en Domænemodel-pakke for at se dens oversigtsdiagram : Package diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">17-03-2015 13:11:49</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">11-10-2019 13:45:19</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">Modelsekretariatet</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{45DB7404-BB1E-4d07-9D54-AEF40842AD48}</td>
+		</tr>
+	</table>
+	
+</div>
+ 
+</body>
+</html>

@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.9.3:1", "", "Oversigtsdiagram DHMTilpasningslag", "EARoot/EA9/EA3/EA503.htm", "175.png", "3189", "0", "", "Logical diagram0","{7039E6A3-C24A-4333-9311-30E6776D7981}");
+tocTab[tocTab.length] = new Array("0.9.3:2", "", "«DKEnumeration» BrugesHerVærdi", "EARoot/EA9/EA3/EA507.htm", "247.png", "E6964", "0", "", "Enumeration0","{0ECF768D-CD34-4684-9079-55C4A8B5D9BE}");
+tocTab[tocTab.length] = new Array("0.9.3:3", "", "«DKFeaturetype» DHMHestesko", "EARoot/EA9/EA3/EA508.htm", "5.png", "E6962", "0", "", "Class0","{17C20783-72D1-432e-B000-B3FEA6213C3B}");
+tocTab[tocTab.length] = new Array("0.9.3:4", "", "«DKFeaturetype» DHMLinje", "EARoot/EA9/EA3/EA509.htm", "5.png", "E6963", "0", "", "Class0","{500B1CC8-EAEA-45de-BD54-A5642CA59B64}");
+tocTab[tocTab.length] = new Array("0.9.3:5", "", "«DKEnumeration» HindringVærdi", "EARoot/EA9/EA3/EA510.htm", "247.png", "E6965", "0", "", "Enumeration0","{08078354-0FCB-447a-8C92-FA1DBF37F52A}");
+tocTab[tocTab.length] = new Array("0.9.3:6", "", "«DKEnumeration» KategoriVærdi", "EARoot/EA9/EA3/EA511.htm", "247.png", "E6966", "0", "", "Enumeration0","{4B4D88BD-3F9B-495d-8FBD-3E06BE07F6E1}");
+tocTab[tocTab.length] = new Array("0.9.3:7", "", "«DKEnumeration» KotestedVærdi", "EARoot/EA9/EA3/EA512.htm", "247.png", "E6967", "0", "", "Enumeration0","{2B42A550-8B2C-459e-81A7-4927627DA8D3}");

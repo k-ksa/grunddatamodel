@@ -1,0 +1,17 @@
+tocTab[tocTab.length] = new Array("0.3:3", "", "CVREnhed", "EARoot/EA3/EA113.htm", "175.png", "3209", "0", "", "Logical diagram0","{0059172D-A487-4f1a-ABF3-F12485113E68}");
+tocTab[tocTab.length] = new Array("0.3:4", "", "CVR registrering", "EARoot/EA3/EA115.htm", "175.png", "3210", "0", "", "Logical diagram0","{9B413417-5743-4da3-9383-E3B88CB84DDD}");
+tocTab[tocTab.length] = new Array("0.3:5", "", "«DKKlassifikation» Branchebogen", "EARoot/EA3/EA118.htm", "247.png", "E7235", "0", "", "Enumeration0","{ABF67E79-FD94-49d2-B508-BF5B484E1E76}");
+tocTab[tocTab.length] = new Array("0.3:6", "", "«DKObjekttype» CVRAdresse", "EARoot/EA3/EA119.htm", "5.png", "E7232", "0", "", "Class0","{74468E15-B0A6-41b6-AC85-D81015390E47}");
+tocTab[tocTab.length] = new Array("0.3:7", "", "«DKDatatype» CVRData", "EARoot/EA3/EA120.htm", "230.png", "E7236", "0", "", "DataType0","{AAAE7135-7379-4faa-85E9-A9BF8B46653F}");
+tocTab[tocTab.length] = new Array("0.3:8", "", "«DKObjekttype» CVREnhed", "EARoot/EA3/EA121.htm", "5.png", "E7233", "0", "", "Class0","{3C5B956E-E1AB-4ed3-A774-0A41A3F2C492}");
+tocTab[tocTab.length] = new Array("0.3:9", "", "«DKObjekttype» CVREntitet", "EARoot/EA3/EA122.htm", "5.png", "E7234", "0", "", "Class0","{5682A2A4-A3AD-4cde-B797-ECC3949566B4}");
+tocTab[tocTab.length] = new Array("0.3:10", "", "«DKDatatype» Email", "EARoot/EA3/EA123.htm", "230.png", "E7237", "0", "", "DataType0","{FCE48CAF-A71F-4f3e-98B2-15C1807756C0}");
+tocTab[tocTab.length] = new Array("0.3:11", "", "«DKDatatype» Navn", "EARoot/EA3/EA124.htm", "230.png", "E7238", "0", "", "DataType0","{07165A51-9FCC-424c-A483-AB4A326A4A45}");
+tocTab[tocTab.length] = new Array("0.3:12", "", "«DKDatatype» Reklamebeskyttet", "EARoot/EA3/EA126.htm", "230.png", "E7239", "0", "", "DataType0","{F3329102-1A49-4070-B197-4E0CE8B8B5DA}");
+tocTab[tocTab.length] = new Array("0.3:13", "", "«DKEnumeration» StatusType", "EARoot/EA3/EA127.htm", "247.png", "E7240", "0", "", "Enumeration0","{E21E9DDB-636E-4ace-8E4C-25C73D1F2782}");
+tocTab[tocTab.length] = new Array("0.3:14", "", "«DKDatatype» Telefax", "EARoot/EA3/EA128.htm", "230.png", "E7241", "0", "", "DataType0","{79F4FEE1-F467-4912-87A4-94A80DA3AA8C}");
+tocTab[tocTab.length] = new Array("0.3:15", "", "«DKDatatype» Telefon", "EARoot/EA3/EA129.htm", "230.png", "E7242", "0", "", "DataType0","{B9F31B27-3433-4efe-B473-AEC94D9D6BFB}");
+tocTab[tocTab.length] = new Array("0.3:1", "", "CVR data", "EARoot/EA3/EA109.htm", "175.png", "3211", "E7236", "", "Logical diagram0","{F6E3F696-088A-40f9-915C-E44405462E0B}");
+tocTab[tocTab.length] = new Array("0.3:2", "", "CVR entitet", "EARoot/EA3/EA111.htm", "175.png", "3212", "E7234", "", "Logical diagram0","{EF30714C-9A75-4c87-9FB3-954175A6B08A}");
+tocTab[tocTab.length] = new Array("0.3.1", "1", "«DKDomænemodel» person", "EARoot/EA3/EA1/EA131.htm", "4.png", "", "", "{3D8080A4-E831-4d6e-A26C-681E8E10BFD7}", "Package");
+tocTab[tocTab.length] = new Array("0.3.2", "1", "«DKDomænemodel» virksomhed", "EARoot/EA3/EA2/EA144.htm", "4.png", "", "", "{1F58CAE4-BDB7-4ef1-B8A5-6969F40E1C0D}", "Package");

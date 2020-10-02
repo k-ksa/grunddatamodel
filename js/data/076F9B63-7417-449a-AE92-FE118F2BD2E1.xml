@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.12.5:1", "", "folkekirke", "EARoot/EA12/EA5/EA808.htm", "175.png", "3175", "0", "", "Logical diagram0","{19416D6C-AC79-4e1f-8E96-5F8F571D4F99}");
+tocTab[tocTab.length] = new Array("0.12.5:2", "", "«DKDatatype» Folkekirke", "EARoot/EA12/EA5/EA811.htm", "5.png", "E6904", "0", "", "Class0","{116AE8E3-F028-49cb-B7D9-9073323C4F41}");
+tocTab[tocTab.length] = new Array("0.12.5:3", "", "«DKEnumeration» Tilhoersforhold", "EARoot/EA12/EA5/EA812.htm", "247.png", "E6905", "0", "", "Enumeration0","{33250E1B-7B55-4252-B9EA-4744D50B88B9}");

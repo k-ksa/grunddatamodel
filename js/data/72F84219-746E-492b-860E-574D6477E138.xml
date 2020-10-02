@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.12.8:1", "", "navn", "EARoot/EA12/EA8/EA824.htm", "175.png", "3178", "0", "", "Logical diagram0","{D7B68E4C-8F5F-44cc-884C-3DD2A89D8826}");
+tocTab[tocTab.length] = new Array("0.12.8:2", "", "«DKDatatype» Navn", "EARoot/EA12/EA8/EA827.htm", "5.png", "E6914", "0", "", "Class0","{20C79015-D907-485a-98A4-0517A9899FC2}");
+tocTab[tocTab.length] = new Array("0.12.8:3", "", "«DKEnumeration» Navnemarkering", "EARoot/EA12/EA8/EA828.htm", "247.png", "E6915", "0", "", "Enumeration0","{ED9E82CC-9D4C-4402-8BE1-158D72D2B0E3}");

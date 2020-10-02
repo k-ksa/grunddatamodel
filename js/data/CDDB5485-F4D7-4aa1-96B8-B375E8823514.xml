@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.12.7:1", "", "kommunaleForhold", "EARoot/EA12/EA7/EA818.htm", "175.png", "3177", "0", "", "Logical diagram0","{C2ACF466-9D1A-41c1-BEF0-4264BCEF85D0}");
+tocTab[tocTab.length] = new Array("0.12.7:2", "", "«DKDatatype» KommunaleForhold", "EARoot/EA12/EA7/EA821.htm", "5.png", "E6910", "0", "", "Class0","{BB898E3B-203C-4089-AF3B-623C79516EEF}");
+tocTab[tocTab.length] = new Array("0.12.7:3", "", "«DKEnumeration» KommunaleForholdstype", "EARoot/EA12/EA7/EA822.htm", "247.png", "E6912", "0", "", "Enumeration0","{DF24B8A0-06CF-4f08-BF24-252DDAB4E282}");
+tocTab[tocTab.length] = new Array("0.12.7:4", "", "«DKDatatype» Notat", "EARoot/EA12/EA7/EA823.htm", "5.png", "E6911", "0", "", "Class0","{609B61D4-80F7-4d61-9A4B-C5C0CC65CEBD}");

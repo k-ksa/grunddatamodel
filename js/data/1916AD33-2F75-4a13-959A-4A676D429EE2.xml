@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.12.4:1", "", "familie", "EARoot/EA12/EA4/EA801.htm", "175.png", "3174", "0", "", "Logical diagram0","{CA0D66E2-94DC-4402-A182-F9132C1F7706}");
+tocTab[tocTab.length] = new Array("0.12.4:2", "", "«DKDatatype» Foraelderoplysning", "EARoot/EA12/EA4/EA804.htm", "5.png", "E6899", "0", "", "Class0","{64A1F701-4AFE-4561-AA52-3E48430BBC79}");
+tocTab[tocTab.length] = new Array("0.12.4:3", "", "«DKEnumeration» Foraelderrolle", "EARoot/EA12/EA4/EA805.htm", "247.png", "E6901", "0", "", "Enumeration0","{68D6FD4F-536E-4fdd-80D0-8E629AA73BA4}");
+tocTab[tocTab.length] = new Array("0.12.4:4", "", "«DKEnumeration» Foraeldremyndighedshaverrolle", "EARoot/EA12/EA4/EA806.htm", "247.png", "E6902", "0", "", "Enumeration0","{BBB0C345-5F62-4a97-B520-4CBBDB6BE08F}");
+tocTab[tocTab.length] = new Array("0.12.4:5", "", "«DKDatatype» Foraeldremyndighedsoplysning", "EARoot/EA12/EA4/EA807.htm", "5.png", "E6900", "0", "", "Class0","{C2271D21-6278-49ea-B08B-18AABE3F1DEA}");

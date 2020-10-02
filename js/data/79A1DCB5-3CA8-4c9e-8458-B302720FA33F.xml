@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.12.2:1", "", "beskyttelse", "EARoot/EA12/EA2/EA790.htm", "175.png", "3172", "0", "", "Logical diagram0","{84CE8DED-028D-48ae-95B7-0CEABC55CB06}");
+tocTab[tocTab.length] = new Array("0.12.2:2", "", "«DKDatatype» Beskyttelse", "EARoot/EA12/EA2/EA793.htm", "5.png", "E6892", "0", "", "Class0","{1C8B099A-4D09-4c75-8B36-F8B92F853D6D}");
+tocTab[tocTab.length] = new Array("0.12.2:3", "", "«DKEnumeration» Beskyttelsestype", "EARoot/EA12/EA2/EA794.htm", "247.png", "E6893", "0", "", "Enumeration0","{D3912C61-FA85-4c6e-B981-DC24EB8B0F4D}");

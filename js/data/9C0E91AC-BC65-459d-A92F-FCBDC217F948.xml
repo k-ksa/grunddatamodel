@@ -1,0 +1,17 @@
+tocTab[tocTab.length] = new Array("0.9.4:1", "", "Oversigtsdiagram Diverse", "EARoot/EA9/EA4/EA513.htm", "175.png", "3191", "0", "", "Logical diagram0","{C82AB998-5305-40b1-ABB5-D7812173A276}");
+tocTab[tocTab.length] = new Array("0.9.4:2", "", "Oversigtsdiagram Diverse Enumerationer", "EARoot/EA9/EA4/EA515.htm", "175.png", "3190", "0", "", "Logical diagram0","{E3A50407-9A13-4e54-9D2C-B3F5442148E2}");
+tocTab[tocTab.length] = new Array("0.9.4:3", "", "«DKEnumeration» AktionVærdi", "EARoot/EA9/EA4/EA520.htm", "247.png", "E6980", "0", "", "Enumeration0","{3461F5EC-B5D8-474f-BF4D-981493825EA9}");
+tocTab[tocTab.length] = new Array("0.9.4:4", "", "«DKEnumeration» EjerOP", "EARoot/EA9/EA4/EA521.htm", "247.png", "E6981", "0", "", "Enumeration0","{32297B91-AD17-4aed-ABEA-10C533CAA38F}");
+tocTab[tocTab.length] = new Array("0.9.4:5", "", "«DKEnumeration» ForetagetVærdi", "EARoot/EA9/EA4/EA522.htm", "247.png", "E6982", "0", "", "Enumeration0","{D7A88A2F-16D9-4083-BE7D-9885BA25D502}");
+tocTab[tocTab.length] = new Array("0.9.4:6", "", "«DKFeaturetype» Fotoindex", "EARoot/EA9/EA4/EA523.htm", "5.png", "E6970", "0", "", "Class0","{89AC2329-A30C-4827-B233-3EDD300341FD}");
+tocTab[tocTab.length] = new Array("0.9.4:7", "", "«DKFeaturetype» HistoriskFlade", "EARoot/EA9/EA4/EA524.htm", "5.png", "E6971", "0", "", "Class0","{F4152EB5-F60B-4808-A44C-E18899D61409}");
+tocTab[tocTab.length] = new Array("0.9.4:8", "", "«DKFeaturetype» HistoriskLinje", "EARoot/EA9/EA4/EA525.htm", "5.png", "E6972", "0", "", "Class0","{60867EA1-8CF1-44b8-9004-A954DDF2BC29}");
+tocTab[tocTab.length] = new Array("0.9.4:9", "", "«DKFeaturetype» HistoriskPunkt", "EARoot/EA9/EA4/EA526.htm", "5.png", "E6973", "0", "", "Class0","{9BE69E3A-1750-4502-85A6-9469ECFC0D1B}");
+tocTab[tocTab.length] = new Array("0.9.4:10", "", "«DKFeaturetype» Kommuneområde", "EARoot/EA9/EA4/EA527.htm", "5.png", "E6974", "0", "", "Class0","{40B7BA01-FDDC-4c0e-AF13-622753AB0F89}");
+tocTab[tocTab.length] = new Array("0.9.4:11", "", "«DKFeaturetype» Områdepolygon", "EARoot/EA9/EA4/EA528.htm", "5.png", "E6975", "0", "", "Class0","{B27DA416-47B0-4abb-A41B-5480949BD413}");
+tocTab[tocTab.length] = new Array("0.9.4:12", "", "«DKEnumeration» OmrådetypeVærdi", "EARoot/EA9/EA4/EA529.htm", "247.png", "E6983", "0", "", "Enumeration0","{EFE8335F-F50A-404e-8386-11A24251E4DB}");
+tocTab[tocTab.length] = new Array("0.9.4:13", "", "«DKFeaturetype» Parkeringsområde", "EARoot/EA9/EA4/EA530.htm", "5.png", "E6976", "0", "", "Class0","{6FDF19F0-0608-47fe-82C1-7EDF5D7403A0}");
+tocTab[tocTab.length] = new Array("0.9.4:14", "", "«DKEnumeration» PlaceringVærdi", "EARoot/EA9/EA4/EA531.htm", "247.png", "E6984", "0", "", "Enumeration0","{409F93B3-1628-461a-887D-1308794E5E34}");
+tocTab[tocTab.length] = new Array("0.9.4:15", "", "«DKFeaturetype» UdpegningFlade", "EARoot/EA9/EA4/EA532.htm", "5.png", "E6977", "0", "", "Class0","{B0477DEF-1DE4-442c-B5FD-E12294AA4604}");
+tocTab[tocTab.length] = new Array("0.9.4:16", "", "«DKFeaturetype» UdpegningLinje", "EARoot/EA9/EA4/EA533.htm", "5.png", "E6978", "0", "", "Class0","{4CC28F36-B6A1-4f35-88C2-D4D5FEF51C69}");
+tocTab[tocTab.length] = new Array("0.9.4:17", "", "«DKFeaturetype» UdpegningPunkt", "EARoot/EA9/EA4/EA534.htm", "5.png", "E6979", "0", "", "Class0","{2E587118-E2C6-4127-9280-9E12AA8CD56D}");

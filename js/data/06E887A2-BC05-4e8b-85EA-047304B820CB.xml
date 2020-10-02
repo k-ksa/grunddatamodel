@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.9.1:1", "", "Oversigtsdiagram Bebyggelse", "EARoot/EA9/EA1/EA486.htm", "175.png", "3187", "0", "", "Logical diagram0","{877413D9-8D19-4ef2-9C56-717B16744428}");
+tocTab[tocTab.length] = new Array("0.9.1:2", "", "«DKFeaturetype» Bykerne", "EARoot/EA9/EA1/EA490.htm", "5.png", "E6949", "0", "", "Class0","{10B3FC05-C771-444a-8B64-6306CE877141}");
+tocTab[tocTab.length] = new Array("0.9.1:3", "", "«DKFeaturetype» Erhverv", "EARoot/EA9/EA1/EA491.htm", "5.png", "E6950", "0", "", "Class0","{D483BE1E-AECC-475b-9422-C23463E28419}");
+tocTab[tocTab.length] = new Array("0.9.1:4", "", "«DKFeaturetype» HøjBebyggelse", "EARoot/EA9/EA1/EA492.htm", "5.png", "E6951", "0", "", "Class0","{5B179CC8-E495-49f2-AF4A-8F3A7BF8D8F3}");
+tocTab[tocTab.length] = new Array("0.9.1:5", "", "«DKFeaturetype» LavBebyggelse", "EARoot/EA9/EA1/EA493.htm", "5.png", "E6952", "0", "", "Class0","{38D44D9E-9547-4231-8824-0A62DC3D12C9}");

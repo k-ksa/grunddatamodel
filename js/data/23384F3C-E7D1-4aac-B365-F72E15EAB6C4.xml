@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.12.6:1", "", "Haenndelse", "EARoot/EA12/EA6/EA813.htm", "175.png", "3176", "0", "", "Logical diagram0","{8BAB4EA2-A1D7-4a18-9648-C359086B4C86}");
+tocTab[tocTab.length] = new Array("0.12.6:2", "", "«DKDatatype» Cprhaendelse", "EARoot/EA12/EA6/EA816.htm", "5.png", "E6907", "0", "", "Class0","{BF693480-1D1A-4fd6-B0AC-335389F80046}");
+tocTab[tocTab.length] = new Array("0.12.6:3", "", "«DKEnumeration» Forretningshaendelse", "EARoot/EA12/EA6/EA817.htm", "247.png", "E6908", "0", "", "Enumeration0","{C0036A3B-6671-49fd-A8D8-E6502E93AFF4}");
